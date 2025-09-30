@@ -1,4 +1,4 @@
-<!-- Яркий анимированный заголовок с гифкой -->
+
 <p align="center">
   <br>
  
@@ -6,12 +6,12 @@
 
 <!-- Приветствие с гифкой -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="500" alt="Приветствие"/>
+  <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="600" alt="Приветствие"/>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Привет!+Я+Илина,+разработчик+и+творческая+личность!&color=FFA07Afont=Arial" alt="Типография"/>
 </p>
 
-<!-- Контактная информация в стильной карточке -->
+
 <h2 style="text-align:center; color:#D2B48C;">✨ Мои Контакты ✨</h2>
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <div style="background:#f5deb3; padding:15px 25px; border-radius:15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); transition: transform 0.3s;">
@@ -28,7 +28,7 @@
   </div>
 </div>
 
-<!-- Навыки с красивыми бейджами -->
+
 <h2 style="text-align:center; color:#D2B48C;">🚀 Мои Навыки 🚀</h2>
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin-bottom:20px;">
   <span style="background:#ffe4b5; padding:15px 20px; border-radius:25px; font-weight:bold; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">Microsoft Word</span>
@@ -41,7 +41,7 @@
   <span style="background:#ffe4b5; padding:15px 20px; border-radius:25px; font-weight:bold;">SQL</span>
 </div>
 
-<!-- Опыт работы с гифками и эффектами -->
+
 <h2 style="text-align:center; color:#D2B48C;">💻 Мой Опыт 💻</h2>
 <ul style="list-style:none; padding:0; max-width:700px; margin:0 auto;">
   <li style="margin-bottom:15px; display:flex; align-items:center;">
@@ -52,7 +52,7 @@
   </li>
 </ul>
 
-<!-- Образование с анимацией -->
+
 <h2 style="text-align:center; color:#D2B48C;">🎓 Образование 🎓</h2>
 <ul style="list-style:none; padding:0; max-width:700px; margin:0 auto;">
   <li style="margin-bottom:15px;">
@@ -63,7 +63,7 @@
   </li>
 </ul>
 
-<!-- Всплывающие гифки и Иконки -->
+
 <p align="center" style="margin-top:20px;">
   <img src="https://media.giphy.com/media/3oKIPwoeG7t8J7yYhK/giphy.gif" width="150" alt="Креативный гиф">
 </p>
