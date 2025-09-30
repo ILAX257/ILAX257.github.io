@@ -45,10 +45,10 @@
 <h2 style="text-align:center; color:#D2B48C;">💻 Мой Опыт 💻</h2>
 <ul style="list-style:none; padding:0; max-width:700px; margin:0 auto;">
   <li style="margin-bottom:15px; display:flex; align-items:center;">
-    Разработчик (2020 - настоящее время)
+    Разработчик (2023 - настоящее время)
   </li>
   <li style="margin-bottom:15px; display:flex; align-items:center;">
-    Младший разработчик (2018 - 2020)
+    Младший разработчик (2021 - 2023)
   </li>
 </ul>
 
@@ -56,10 +56,10 @@
 <h2 style="text-align:center; color:#D2B48C;">🎓 Образование 🎓</h2>
 <ul style="list-style:none; padding:0; max-width:700px; margin:0 auto;">
   <li style="margin-bottom:15px;">
-    <strong>УГКТиД A</strong> — Бакалавр по информатике (2014 - 2018)
+    <strong>УГКТиД </strong> — Прикладная информатика (2018 - 2022)
   </li>
   <li style="margin-bottom:15px;">
-    <strong>УГНТУ</strong> — Бакалавр по информатике (2022 - настоящее время)
+    <strong>УГНТУ</strong> — Прикладная информатика (2022 - настоящее время)
   </li>
 </ul>
 
