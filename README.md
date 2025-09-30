@@ -1,4 +1,3 @@
-
 <!-- Яркий анимированный заголовок -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Илина%20Ахметзянова!🌟&animation=fadeIn&color=beige&height=100&fontSize=50" alt="Яркий Заголовок"/>
@@ -8,81 +7,94 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&height=40&lines=Привет!+Я+Илина,+разработчик+и+любитель+творческих+проекты!" alt="Типография"/>
 </p>
-<!-- Контактная информация -->
-<h2>Контактная информация</h2>
-<p>Email: axmetzyanova.ilina@bk.ru</p>
-<p>Телефон: +7 (987) 133-74-15</p>
-<p>GitHub: <a href="https://github.com/ILAX257" target="_blank">github.com/ILAX257</a></p>
-<p>LinkedIn: <a href="https://linkedin.com/in/ILAX257" target="_blank">linkedin.com/in/ILAX257</a></p>
 
-<!-- Навыки -->
-<section class="skills">
-  <h2>Навыки</h2>
-  <ul>
-    <li>Microsoft Word, Excel, PowerPoint</li>
-    <li>1C</li>
-    <li>HTML, CSS, JavaScript</li>
-    <li>Python</li>
-    <li>SQL</li>
-  </ul>
-</section>
+<!-- Контактная информация в стиле карточки -->
+<h2 style="text-align:center; color:#D2B48C;">🌟 Контактная информация 🌟</h2>
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <div style="background:#f5deb3; padding:10px 20px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <strong>Email:</strong> <a href="mailto:axmetzyanova.ilina@bk.ru" style="color:#8B4513;">axmetzyanova.ilina@bk.ru</a>
+  </div>
+  <div style="background:#f5deb3; padding:10px 20px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <strong>Телефон:</strong> <a href="tel:+79871337415" style="color:#8B4513;">+7 (987) 133-74-15</a>
+  </div>
+  <div style="background:#f5deb3; padding:10px 20px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <strong>GitHub:</strong> <a href="https://github.com/ILAX257" target="_blank" style="color:#8B4513;">github.com/ILAX257</a>
+  </div>
+  <div style="background:#f5deb3; padding:10px 20px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ILAX257" target="_blank" style="color:#8B4513;">linkedin.com/in/ILAX257</a>
+  </div>
+</div>
 
-<!-- Опыт работы -->
-<section class="experience">
-  <h2>Опыт работы</h2>
-  <ul>
-    <li><strong>Компания A</strong> — Разработчик (2020 - настоящее время)</li>
-    <li><strong>Компания B</strong> — Младший разработчик (2018 - 2020)</li>
-  </ul>
-</section>
+<!-- Навыки в ярком стиле -->
+<h2 style="text-align:center; color:#D2B48C;">🚀 Мои Навыки 🚀</h2>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px; font-weight:bold;">Microsoft Word</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px; font-weight:bold;">Excel</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px; font-weight:bold;">PowerPoint</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px; font-weight:bold;">!C</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px; font-weight:bold;">HTML & CSS</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px; font-weight:bold;">JavaScript</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px; font-weight:bold;">Python</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px; font-weight:bold;">SQL</span>
+</div>
+
+<!-- Опыт работы с иконками -->
+<h2 style="text-align:center; color:#D2B48C;">🛠️ Мой опыт 🛠️</h2>
+<ul style="list-style-type: none; padding: 0; max-width:600px; margin: 0 auto;">
+  <li style="margin-bottom:10px;">
+    <strong>Компания A</strong> — Разработчик (2020 - настоящее время)
+  </li>
+  <li style="margin-bottom:10px;">
+    <strong>Компания B</strong> — Младший разработчик (2018 - 2020)
+  </li>
+</ul>
 
 <!-- Образование -->
-<section class="education">
-  <h2>Образование</h2>
-  <ul>
-    <li><strong>УГКТиД A</strong> — Бакалавр в области информатики (2014 - 2018)</li>
-    <li><strong>УГНТУ</strong> — Бакалавр в области информатики (2022 - настоящее время)</li>
-  </ul>
-</section>
+<h2 style="text-align:center; color:#D2B48C;">🎓 Образование 🎓</h2>
+<ul style="list-style-type: none; padding: 0; max-width:600px; margin: 0 auto;">
+  <li style="margin-bottom:10px;">
+    <strong>УГКТиД A</strong> — Бакалавр по информатике (2014 - 2018)
+  </li>
+  <li style="margin-bottom:10px;">
+    <strong>УГНТУ</strong> — Бакалавр по информатике (2022 - настоящее время)
+  </li>
+</ul>
 
-<!-- Социальные медиа -->
-<p align="center">
+<!-- Социальные badge -->
+<p align="center" style="margin-top:20px;">
   <a href="mailto:axmetzyanova.ilina@bk.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-<!-- Посещаемость профиля -->
+<!-- Визуальная статистика -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ILAX257&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ILAX257&style=flat-square&color=orange" alt="Profile Views"/>
 </p>
 
-<!-- О себе -->
+<!-- О себе в ярком стиле -->
 <p align="center">
   <img src="https://img.shields.io/badge/About%20Me-%23f5deb3?style=for-the-badge&logo=readme&logoColor=white" alt="About Me">
 </p>
 
-## 🙋‍♀️ О себе
+## 🌈 О себе
 
-- 🚀 Образование: Инженер по информационным технологиям, специализация Data Science
+- 🚀 Стремлюсь к развитию в области Data Science и AI
+- 🎨 Люблю креативные проекты и новые технологии
+- 🌟 Постоянно учусь и совершенствую свои навыки
 
-<!-- Навыки -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🛠️-Навыки-beige?style=for-the-badge" alt="Навыки">
+<!-- Навыки в виде иконок и ярких бейджей -->
+<h3 style="text-align:center; color:#D2B48C;">🔧 Навыки 🔧</h3>
+<p style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px;">Python</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px;">TensorFlow</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px;">Jupyter</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px;">ML & DL</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px;">GitHub</span>
+  <span style="background:#ffe4b5; padding:8px 12px; border-radius:20px;">VS Code</span>
 </p>
 
-### 🛠️ **Навыки**
-- **Языки:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-- **Фреймворки и библиотеки:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-- **Инструменты и платформы:** ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 **Статистика GitHub**
+<!-- Статистика GitHub -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ILAX257&theme=light" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ILAX257&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ILAX257&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
 </p>
