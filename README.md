@@ -1,13 +1,13 @@
-<!-- Animated Header -->
+
+<!-- Яркий анимированный заголовок -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Илина%20Ахметзянова!🌟&animation=fadeIn&type=waving&color=orange&height=100" alt="Animated Header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Илина%20Ахметзянова!🌟&animation=fadeIn&color=beige&height=100&fontSize=50" alt="Яркий Заголовок"/>
 </p>
 
-<!-- Typing SVG -->
+<!-- Всплывающая анимация приветствия -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Добро+пожаловать+на+мой+профиль+GitHub.." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&height=40&lines=Привет!+Я+Илина,+разработчик+и+любитель+творческих+проекты!" alt="Типография"/>
 </p>
-
 <!-- Контактная информация -->
 <h2>Контактная информация</h2>
 <p>Email: axmetzyanova.ilina@bk.ru</p>
@@ -20,7 +20,7 @@
   <h2>Навыки</h2>
   <ul>
     <li>Microsoft Word, Excel, PowerPoint</li>
-    <li>!C</li>
+    <li>1C</li>
     <li>HTML, CSS, JavaScript</li>
     <li>Python</li>
     <li>SQL</li>
